@@ -1,0 +1,191 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ s_m_entry_id
+ s_m_entry_name
+ s_st_Chirality_1
+ s_m_source_file
+ i_m_source_file_index
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ s_epik_Chemistry_Notes
+ i_f3d_flags
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ s_st_EZ_1
+ r_lp_tautomer_probability
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ 314_1 
+  320 
+  entry 
+  4_S_3_5_6_23 
+  ligprep_28.maegz 
+  1
+  47013
+  W0NIM11bQ0gyXU9DKD1PKVtDQEhdKFtDSDJdUzEpTj1DMWMoczIpbmMoYzIzKVtjSF1bY0hdYyhbY0hdMylOKFtDSDNdKVtDSDNd 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjQnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+    0.0000 
+    0.0000 
+    0.0000 
+    0.0000 
+  0
+  0
+  0
+  "This compound has an ester and may undergo hydrolysis at high or low pH. This compound has an imine and may undergo hydrolysis." 
+  0
+  OPLS3e 
+  28.861548
+  1
+  314-2 
+  ligprep_28 
+  1_2_3_4_Z 
+  1
+  SET_5 
+  SET_5_copy1 
+  0
+  2
+ m_depend[10] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 s_st_Chirality_1 
+  2 10 r_epik_Ionization_Penalty 
+  3 10 r_epik_Ionization_Penalty_Charging 
+  4 10 r_epik_Ionization_Penalty_Neutral 
+  5 10 r_epik_State_Penalty 
+  6 10 r_epik_Charging_Adjusted_Penalty 
+  7 10 i_epik_Tot_Q 
+  8 30 s_m_job_name 
+  9 10 s_st_EZ_1 
+  10 10 r_lp_tautomer_probability 
+  :::
+ } 
+ m_atom[39] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_color
+  r_m_charge1
+  r_m_charge2
+  i_m_atomic_number
+  s_m_color_rgb
+  i_rdk_index
+  r_epik_H2O_pKa
+  r_epik_H2O_pKa_uncertainty
+  b_st_NoSrcChirality
+  :::
+  1 49 -0.786664 1.615910 0.010999 13 -0.22675 -0.22675 16 E1E11E  0 <> <> <>
+  2 2 0.037338 0.021714 -0.047564 2 0.33527 0.33527 6 A0A0A0  1 <> <> <>
+  3 25 -0.694018 -1.018537 -0.067784 43 -0.45146 -0.45146 7 5757FF  2  -0.945    1.000  <>
+  4 3 -2.108075 -0.722102 -0.041551 2 -0.08342 -0.08342 6 A0A0A0  3 <> <> 1
+  5 3 -2.383089 0.790087 0.062223 2 -0.01552 -0.01552 6 A0A0A0  4 <> <> <>
+  6 2 -2.690504 -1.538899 1.130249 2 0.54254 0.54254 6 A0A0A0  5 <> <> <>
+  7 15 -3.419013 -2.511004 0.921292 70 -0.43868 -0.43868 8 FF2F2F  6 <> <> <>
+  8 16 -2.324468 -1.072089 2.349631 70 -0.30433 -0.30433 8 FF2F2F  7 <> <> <>
+  9 2 3.856658 -0.749349 -0.049865 2 -0.08780 -0.08780 6 A0A0A0  8 <> <> <>
+  10 49 2.323546 -1.605543 -0.067367 13 0.02861 0.02861 16 E1E11E  9 <> <> <>
+  11 2 1.502920 -0.048363 -0.059493 2 0.00693 0.00693 6 A0A0A0  10 <> <> <>
+  12 25 2.290410 0.995460 -0.051271 43 -0.30511 -0.30511 7 5757FF  11 <> <> <>
+  13 2 3.603855 0.645721 -0.044657 2 0.44072 0.44072 6 A0A0A0  12 <> <> <>
+  14 2 4.675329 1.550140 -0.030659 2 -0.37432 -0.37432 6 A0A0A0  13 <> <> <>
+  15 2 5.974404 1.039830 -0.018295 2 -0.06598 -0.06598 6 A0A0A0  14 <> <> <>
+  16 2 6.225422 -0.340848 -0.020206 2 0.21285 0.21285 6 A0A0A0  15 <> <> <>
+  17 2 5.164682 -1.251616 -0.039027 2 -0.19955 -0.19955 6 A0A0A0  16 <> <> <>
+  18 25 7.536532 -0.851153 -0.000664 43 -0.76334 -0.76334 7 5757FF  17   2.748    1.474  <>
+  19 3 8.253443 -0.549812 1.234342 2 0.09005 0.09005 6 A0A0A0  18 <> <> <>
+  20 3 8.283453 -0.567358 -1.221603 2 0.09005 0.09005 6 A0A0A0  19 <> <> <>
+  21 3 -2.758830 -1.720077 3.536588 2 0.15372 0.15372 6 A0A0A0  20 <> <> <>
+  22 3 -2.136175 -1.020309 4.748459 2 -0.24896 -0.24896 6 A0A0A0  21 <> <> <>
+  23 41 -2.542405 -1.111050 -0.963802 21 0.14273 0.14273 1 FFFFFF  <> <> <> <>
+  24 41 -2.897164 1.099061 0.974116 21 0.11900 0.11900 1 FFFFFF  <> <> <> <>
+  25 41 -2.974017 1.141977 -0.783763 21 0.11900 0.11900 1 FFFFFF  <> <> <> <>
+  26 41 4.506201 2.617036 -0.026511 21 0.21704 0.21704 1 FFFFFF  <> <> <> <>
+  27 41 6.801311 1.735301 -0.005598 21 0.13074 0.13074 1 FFFFFF  <> <> <> <>
+  28 41 5.347566 -2.316541 -0.041674 21 0.20450 0.20450 1 FFFFFF  <> <> <> <>
+  29 41 7.665063 -0.848968 2.103223 21 0.06440 0.06440 1 FFFFFF  <> <> <> <>
+  30 41 8.461581 0.517259 1.325799 21 0.06440 0.06440 1 FFFFFF  <> <> <> <>
+  31 41 9.197892 -1.093715 1.273807 21 0.06440 0.06440 1 FFFFFF  <> <> <> <>
+  32 41 7.718366 -0.881976 -2.100352 21 0.06440 0.06440 1 FFFFFF  <> <> <> <>
+  33 41 9.230133 -1.108900 -1.227939 21 0.06440 0.06440 1 FFFFFF  <> <> <> <>
+  34 41 8.490957 0.498816 -1.324274 21 0.06440 0.06440 1 FFFFFF  <> <> <> <>
+  35 41 -3.847460 -1.686100 3.602526 21 0.06173 0.06173 1 FFFFFF  <> <> <> <>
+  36 41 -2.461426 -2.770088 3.521279 21 0.06173 0.06173 1 FFFFFF  <> <> <> <>
+  37 41 -2.450566 -1.499267 5.675760 21 0.07387 0.07387 1 FFFFFF  <> <> <> <>
+  38 41 -2.435526 0.027080 4.796595 21 0.07387 0.07387 1 FFFFFF  <> <> <> <>
+  39 41 -1.047025 -1.056791 4.707957 21 0.07387 0.07387 1 FFFFFF  <> <> <> <>
+  :::
+ } 
+ m_bond[41] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  :::
+  1 1 2 1
+  2 1 5 1
+  3 2 3 2
+  4 2 11 1
+  5 3 4 1
+  6 4 5 1
+  7 4 6 1
+  8 4 23 1
+  9 5 24 1
+  10 5 25 1
+  11 6 7 2
+  12 6 8 1
+  13 8 21 1
+  14 9 10 1
+  15 9 13 2
+  16 9 17 1
+  17 10 11 1
+  18 11 12 2
+  19 12 13 1
+  20 13 14 1
+  21 14 15 2
+  22 14 26 1
+  23 15 16 1
+  24 15 27 1
+  25 16 17 2
+  26 16 18 1
+  27 17 28 1
+  28 18 19 1
+  29 18 20 1
+  30 19 29 1
+  31 19 30 1
+  32 19 31 1
+  33 20 32 1
+  34 20 33 1
+  35 20 34 1
+  36 21 22 1
+  37 21 35 1
+  38 21 36 1
+  39 22 37 1
+  40 22 38 1
+  41 22 39 1
+  :::
+ } 
+} 
+

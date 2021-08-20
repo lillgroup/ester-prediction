@@ -1,0 +1,125 @@
+2
+                    3D
+ Schrodinger Suite 2021-1.
+ 26 26  0  0  1  0            999 V2000
+   -2.2988    1.2939   -0.0895 C   0  0  0  0  0  0
+   -0.7772    1.4876   -0.0883 C   0  0  0  0  0  0
+   -0.0162    0.1706    0.1696 C   0  0  0  0  0  0
+    1.5125    0.3014    0.1734 C   0  0  0  0  0  0
+    2.0829    1.3734   -0.0513 O   0  0  0  0  0  0
+    2.1118   -0.8895    0.4481 O   0  0  0  0  0  0
+    3.4859   -0.9690    0.5053 C   0  0  0  0  0  0
+    4.1717   -1.6232   -0.5177 C   0  0  0  0  0  0
+    5.5580   -1.7370   -0.4659 C   0  0  0  0  0  0
+    6.2777   -1.2074    0.6150 C   0  0  0  0  0  0
+    5.5771   -0.5636    1.6452 C   0  0  0  0  0  0
+    4.1909   -0.4491    1.5945 C   0  0  0  0  0  0
+    7.7555   -1.3295    0.6692 N   0  3  0  0  0  0
+    8.3511   -0.8457    1.6278 O   0  0  0  0  0  0
+    8.3319   -1.9104   -0.2464 O   0  5  0  0  0  0
+   -2.8106    2.2390   -0.2734 H   0  0  0  0  0  0
+   -2.6496    0.9086    0.8685 H   0  0  0  0  0  0
+   -2.6080    0.5936   -0.8662 H   0  0  0  0  0  0
+   -0.4733    1.9140   -1.0459 H   0  0  0  0  0  0
+   -0.5139    2.2248    0.6721 H   0  0  0  0  0  0
+   -0.3271   -0.2453    1.1285 H   0  0  0  0  0  0
+   -0.2933   -0.5608   -0.5901 H   0  0  0  0  0  0
+    3.6307   -2.0412   -1.3542 H   0  0  0  0  0  0
+    6.0672   -2.2427   -1.2735 H   0  0  0  0  0  0
+    6.1009   -0.1489    2.4942 H   0  0  0  0  0  0
+    3.6643    0.0464    2.3973 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+  1 18  1  0  0  0
+  2  3  1  0  0  0
+  2 19  1  0  0  0
+  2 20  1  0  0  0
+  3  4  1  0  0  0
+  3 21  1  0  0  0
+  3 22  1  0  0  0
+  4  5  2  0  0  0
+  4  6  1  0  0  0
+  6  7  1  0  0  0
+  7 12  1  0  0  0
+  7  8  2  0  0  0
+  8  9  1  0  0  0
+  8 23  1  0  0  0
+  9 10  2  0  0  0
+  9 24  1  0  0  0
+ 10 11  1  0  0  0
+ 10 13  1  0  0  0
+ 11 12  2  0  0  0
+ 11 25  1  0  0  0
+ 12 26  1  0  0  0
+ 13 14  2  0  0  0
+ 13 15  1  0  0  0
+M  CHG  2  13   1  15  -1
+M  END
+> <s_m_entry_id>
+2
+
+> <s_m_entry_name>
+CCCC(=O)OC1=CC=C(C=C1)[N+](=O)[O-]
+
+> <i_lp_mmshare_version>
+47013
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W0NIM11bQ0gyXVtDSDJdQyg9TylPYzFbY0hdW2NIXWMoW04rXSg9TylbTy1dKVtjSF1bY0hdMQ==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjQnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+2
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+17.935119
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+CE1_75834-1
+
+> <s_m_job_name>
+ligprep_16
+
+> <s_m_Source_Path>
+/home/andre/Documents/projects/Esterase/data/FINAL_STUFF/Compounds/MAE_external
+
+> <s_m_Source_File>
+2.mae
+
+> <i_m_Source_File_Index>
+1
+
+> <r_lp_tautomer_probability>
+1
+
+$$$$

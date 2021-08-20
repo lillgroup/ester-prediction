@@ -1,0 +1,158 @@
+132
+                    3D
+ Schrodinger Suite 2021-1.
+ 41 42  0  0  1  0            999 V2000
+   -1.9229   -4.0545   -5.0312 C   0  0  0  0  0  0
+   -2.4530   -4.7435   -6.1188 C   0  0  0  0  0  0
+   -3.1218   -4.0436   -7.1183 C   0  0  0  0  0  0
+   -3.2657   -2.6620   -7.0362 C   0  0  0  0  0  0
+   -2.7332   -1.9765   -5.9475 C   0  0  0  0  0  0
+   -2.0514   -2.6615   -4.9313 C   0  0  0  0  0  0
+   -1.4791   -1.9310   -3.7584 C   0  0  0  0  0  0
+   -1.5771   -2.4838   -2.4728 C   0  0  0  0  0  0
+   -1.0604   -1.8237   -1.3591 C   0  0  0  0  0  0
+   -0.4238   -0.5894   -1.5012 C   0  0  0  0  0  0
+   -0.3165   -0.0280   -2.7791 C   0  0  0  0  0  0
+   -0.8326   -0.6889   -3.8943 C   0  0  0  0  0  0
+    0.1326    0.1205   -0.2636 C   0  0  2  0  0  0
+   -0.6710   -0.1164   -5.1105 F   0  0  0  0  0  0
+   -0.4693    1.5313   -0.0736 C   0  0  0  0  0  0
+    1.6723    0.1234   -0.3384 C   0  0  0  0  0  0
+    2.2037   -1.0438    0.0859 O   0  0  0  0  0  0
+    2.3095    1.1051   -0.7302 O   0  0  0  0  0  0
+    3.6113   -1.2422    0.0835 C   0  0  0  0  0  0
+    3.9319   -2.6369    0.6463 C   0  0  0  0  0  0
+    5.4365   -2.9509    0.7139 C   0  0  0  0  0  0
+    6.0204   -2.9147   -0.5724 O   0  0  0  0  0  0
+   -1.3994   -4.6120   -4.2680 H   0  0  0  0  0  0
+   -2.3438   -5.8158   -6.1873 H   0  0  0  0  0  0
+   -3.5339   -4.5763   -7.9627 H   0  0  0  0  0  0
+   -3.7903   -2.1237   -7.8119 H   0  0  0  0  0  0
+   -2.8682   -0.9063   -5.8939 H   0  0  0  0  0  0
+   -2.0705   -3.4334   -2.3247 H   0  0  0  0  0  0
+   -1.1582   -2.2777   -0.3836 H   0  0  0  0  0  0
+    0.1798    0.9225   -2.9126 H   0  0  0  0  0  0
+   -0.1431   -0.4644    0.6153 H   0  0  0  0  0  0
+   -0.2395    2.1971   -0.9067 H   0  0  0  0  0  0
+   -0.0947    2.0017    0.8365 H   0  0  0  0  0  0
+   -1.5551    1.4809    0.0146 H   0  0  0  0  0  0
+    3.9920   -1.1493   -0.9350 H   0  0  0  0  0  0
+    4.0960   -0.4745    0.6891 H   0  0  0  0  0  0
+    3.5157   -2.7187    1.6515 H   0  0  0  0  0  0
+    3.4285   -3.4014    0.0523 H   0  0  0  0  0  0
+    5.9497   -2.1953    1.3103 H   0  0  0  0  0  0
+    5.6188   -3.9200    1.1790 H   0  0  0  0  0  0
+    6.9590   -3.0982   -0.4878 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  6  1  0  0  0
+  1 23  1  0  0  0
+  2  3  1  0  0  0
+  2 24  1  0  0  0
+  3  4  2  0  0  0
+  3 25  1  0  0  0
+  4  5  1  0  0  0
+  4 26  1  0  0  0
+  5  6  2  0  0  0
+  5 27  1  0  0  0
+  6  7  1  0  0  0
+  7  8  2  0  0  0
+  7 12  1  0  0  0
+  8  9  1  0  0  0
+  8 28  1  0  0  0
+  9 10  2  0  0  0
+  9 29  1  0  0  0
+ 10 11  1  0  0  0
+ 10 13  1  0  0  0
+ 11 12  2  0  0  0
+ 11 30  1  0  0  0
+ 12 14  1  0  0  0
+ 13 15  1  0  0  0
+ 13 16  1  0  0  0
+ 13 31  1  0  0  0
+ 15 32  1  0  0  0
+ 15 33  1  0  0  0
+ 15 34  1  0  0  0
+ 16 17  1  0  0  0
+ 16 18  2  0  0  0
+ 17 19  1  0  0  0
+ 19 20  1  0  0  0
+ 19 35  1  0  0  0
+ 19 36  1  0  0  0
+ 20 21  1  0  0  0
+ 20 37  1  0  0  0
+ 20 38  1  0  0  0
+ 21 22  1  0  0  0
+ 21 39  1  0  0  0
+ 21 40  1  0  0  0
+ 22 41  1  0  0  0
+M  END
+> <s_m_entry_id>
+132
+
+> <s_m_entry_name>
+entry
+
+> <i_lp_mmshare_version>
+47013
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W2NIXTFbY0hdW2NIXVtjSF1bY0hdYzEtYzJbY0hdW2NIXWMoW2NIXWMyRilbQ0BIXShbQ0gzXSlDKD1PKU9bQ0gyXVtDSDJdW0NIMl1bT0hd
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjQnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+32.189457
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+293-1
+
+> <s_m_job_name>
+ligprep_7
+
+> <s_m_Source_Path>
+/home/andre/Documents/projects/Esterase/data/FINAL_STUFF/Compounds/MAE_external
+
+> <s_m_Source_File>
+132.mae
+
+> <i_m_Source_File_Index>
+1
+
+> <r_lp_tautomer_probability>
+1
+
+> <s_epik_Chemistry_Notes>
+This compound has an ester and may undergo hydrolysis at high or low pH.
+
+$$$$

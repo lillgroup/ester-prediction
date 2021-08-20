@@ -1,0 +1,113 @@
+42
+                    3D
+ Schrodinger Suite 2021-1.
+ 20 20  0  0  1  0            999 V2000
+   -2.0637    1.3302   -0.0885 C   0  0  0  0  0  0
+   -0.5415    1.4102   -0.0855 C   0  0  0  0  0  0
+    0.0339    2.4985   -0.1579 O   0  0  0  0  0  0
+    0.0404    0.1829    0.0047 O   0  0  0  0  0  0
+    1.4166    0.0841    0.0530 C   0  0  0  0  0  0
+    2.1133    0.0611   -1.1625 C   0  0  0  0  0  0
+    3.5017   -0.0351   -1.1857 C   0  0  0  0  0  0
+    4.2099   -0.1172    0.0085 C   0  0  0  0  0  0
+    3.5291   -0.1104    1.2242 C   0  0  0  0  0  0
+    2.1275   -0.0204    1.2738 C   0  0  0  0  0  0
+    1.4414   -0.0385    2.6103 C   0  0  0  0  0  0
+    2.0667    0.4299    3.5893 O   0  0  0  0  0  0
+    0.2939   -0.5343    2.6807 O   0  5  0  0  0  0
+   -2.4062    0.2976   -0.1619 H   0  0  0  0  0  0
+   -2.4694    1.8880   -0.9326 H   0  0  0  0  0  0
+   -2.4608    1.7576    0.8322 H   0  0  0  0  0  0
+    1.5721    0.1276   -2.0951 H   0  0  0  0  0  0
+    4.0278   -0.0449   -2.1289 H   0  0  0  0  0  0
+    5.2872   -0.1912   -0.0061 H   0  0  0  0  0  0
+    4.1083   -0.1866    2.1339 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 14  1  0  0  0
+  1 15  1  0  0  0
+  1 16  1  0  0  0
+  2  3  2  0  0  0
+  2  4  1  0  0  0
+  4  5  1  0  0  0
+  5 10  2  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6 17  1  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  8  9  2  0  0  0
+  8 19  1  0  0  0
+  9 10  1  0  0  0
+  9 20  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 13  1  0  0  0
+M  CHG  1  13  -1
+M  END
+> <s_m_entry_id>
+42
+
+> <s_m_entry_name>
+entry
+
+> <i_lp_mmshare_version>
+47013
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W0NIM11DKD1PKU9jMVtjSF1bY0hdW2NIXVtjSF1jMUMoPU8pW09IXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjQnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+7.80996878323313e-05
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+21.295418
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+CE2_2244-1
+
+> <s_m_job_name>
+ligprep_109
+
+> <s_m_Source_Path>
+/home/andre/Documents/projects/Esterase/data/FINAL_STUFF/Compounds/MAE_external
+
+> <s_m_Source_File>
+42.mae
+
+> <i_m_Source_File_Index>
+1
+
+> <r_lp_tautomer_probability>
+1
+
+$$$$

@@ -1,0 +1,171 @@
+159
+                    3D
+ Schrodinger Suite 2021-1.
+ 46 49  0  0  1  0            999 V2000
+   -2.7058    2.5502    0.0342 C   0  0  0  0  0  0
+   -1.8699    1.3239   -0.2585 C   0  0  1  0  0  0
+   -2.7065    1.9870   -1.3701 C   0  0  2  0  0  0
+   -0.3320    1.4083   -0.2232 C   0  0  0  0  0  0
+    0.2770    2.4815   -0.2524 O   0  0  0  0  0  0
+    0.2243    0.1692   -0.1405 O   0  0  0  0  0  0
+    1.6267    0.0969   -0.1568 C   0  0  0  0  0  0
+    2.0068   -1.2962   -0.1118 N   0  0  0  0  0  0
+    2.1109   -2.0014    1.0441 C   0  0  0  0  0  0
+    2.4847   -3.2319    0.6779 N   0  0  0  0  0  0
+    2.5592   -3.4579   -0.7457 C   0  0  0  0  0  0
+    2.0064   -2.1009   -1.1997 C   0  0  0  0  0  0
+    4.0404   -3.6729   -1.1896 C   0  0  0  0  0  0
+    4.5260   -3.2000   -2.4221 C   0  0  0  0  0  0
+    5.8492   -3.4140   -2.7975 C   0  0  0  0  0  0
+    6.7042   -4.1106   -1.9498 C   0  0  0  0  0  0
+    6.2446   -4.5998   -0.7316 C   0  0  0  0  0  0
+    4.9214   -4.3852   -0.3573 C   0  0  0  0  0  0
+    1.6103   -4.6277   -1.1416 C   0  0  0  0  0  0
+    0.2219   -4.5198   -0.9361 C   0  0  0  0  0  0
+   -0.6363   -5.5638   -1.2674 C   0  0  0  0  0  0
+   -0.1177   -6.7373   -1.8037 C   0  0  0  0  0  0
+    1.2515   -6.8739   -2.0075 C   0  0  0  0  0  0
+    2.1091   -5.8287   -1.6755 C   0  0  0  0  0  0
+    1.8300   -1.6351    2.1849 O   0  0  0  0  0  0
+    1.6452   -1.8171   -2.3444 O   0  0  0  0  0  0
+   -2.1139    2.8250   -2.5242 C   0  0  0  0  0  0
+   -2.5195    2.5397   -3.6721 O   0  5  0  0  0  0
+   -1.3057    3.7445   -2.2665 O   0  0  0  0  0  0
+   -3.6000    2.4272    0.6450 H   0  0  0  0  0  0
+   -2.2043    3.4961    0.2458 H   0  0  0  0  0  0
+   -2.2263    0.3567    0.0975 H   0  0  0  0  0  0
+   -3.5622    1.3772   -1.6631 H   0  0  0  0  0  0
+    2.0319    0.5486   -1.0682 H   0  0  0  0  0  0
+    2.0492    0.6158    0.7094 H   0  0  0  0  0  0
+    2.9869   -3.8441    1.3039 H   0  0  0  0  0  0
+    3.8857   -2.6713   -3.1112 H   0  0  0  0  0  0
+    6.2094   -3.0442   -3.7463 H   0  0  0  0  0  0
+    7.7304   -4.2780   -2.2421 H   0  0  0  0  0  0
+    6.9109   -5.1468   -0.0810 H   0  0  0  0  0  0
+    4.5829   -4.7857    0.5869 H   0  0  0  0  0  0
+   -0.2017   -3.6212   -0.5112 H   0  0  0  0  0  0
+   -1.6995   -5.4638   -1.1056 H   0  0  0  0  0  0
+   -0.7821   -7.5494   -2.0596 H   0  0  0  0  0  0
+    1.6487   -7.7895   -2.4205 H   0  0  0  0  0  0
+    3.1646   -5.9749   -1.8457 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+  1 30  1  0  0  0
+  1 31  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  2 32  1  0  0  0
+  3 27  1  0  0  0
+  3 33  1  0  0  0
+  4  5  2  0  0  0
+  4  6  1  0  0  0
+  6  7  1  0  0  0
+  7  8  1  0  0  0
+  7 34  1  0  0  0
+  7 35  1  0  0  0
+  8  9  1  0  0  0
+  8 12  1  0  0  0
+  9 10  1  0  0  0
+  9 25  2  0  0  0
+ 10 11  1  0  0  0
+ 10 36  1  0  0  0
+ 11 12  1  0  0  0
+ 11 13  1  0  0  0
+ 11 19  1  0  0  0
+ 12 26  2  0  0  0
+ 13 14  2  0  0  0
+ 13 18  1  0  0  0
+ 14 15  1  0  0  0
+ 14 37  1  0  0  0
+ 15 16  2  0  0  0
+ 15 38  1  0  0  0
+ 16 17  1  0  0  0
+ 16 39  1  0  0  0
+ 17 18  2  0  0  0
+ 17 40  1  0  0  0
+ 18 41  1  0  0  0
+ 19 20  2  0  0  0
+ 19 24  1  0  0  0
+ 20 21  1  0  0  0
+ 20 42  1  0  0  0
+ 21 22  2  0  0  0
+ 21 43  1  0  0  0
+ 22 23  1  0  0  0
+ 22 44  1  0  0  0
+ 23 24  2  0  0  0
+ 23 45  1  0  0  0
+ 24 46  1  0  0  0
+ 27 28  1  0  0  0
+ 27 29  2  0  0  0
+M  CHG  1  28  -1
+M  END
+> <s_m_entry_id>
+159
+
+> <s_m_entry_name>
+entry
+
+> <i_lp_mmshare_version>
+47013
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W09IXUMoPU8pW0NAQEhdMVtDSDJdW0NAQEhdMUMoPU8pT1tDSDJdTihDMj1PKUMoPU8pW05IXUMyKGMzW2NIXVtjSF1bY0hdW2NIXVtjSF0zKWM0W2NIXVtjSF1bY0hdW2NIXVtjSF00
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjQnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0184
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0005
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0179
+
+> <r_epik_State_Penalty>
+  0.0142
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.0147309375832965
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+61.356781
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+322-1
+
+> <s_m_job_name>
+ligprep_35
+
+> <s_m_Source_Path>
+/home/andre/Documents/projects/Esterase/data/FINAL_STUFF/Compounds/MAE_external
+
+> <s_m_Source_File>
+159.mae
+
+> <i_m_Source_File_Index>
+1
+
+> <r_lp_tautomer_probability>
+0.999999999999795
+
+> <s_epik_Chemistry_Notes>
+This compound has an ester and may undergo hydrolysis at high or low pH. This compound contains an acetal/aminal-like group ( X-CH(R)-Y where X, Y are N, S, or O) that may be acid/base labile, releasing an aldehyde.
+
+$$$$

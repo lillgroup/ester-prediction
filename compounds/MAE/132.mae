@@ -1,0 +1,196 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ s_m_entry_id
+ s_m_entry_name
+ s_st_Chirality_1
+ s_m_source_file
+ i_m_source_file_index
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ s_epik_Chemistry_Notes
+ i_f3d_flags
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ r_lp_tautomer_probability
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ 293_1 
+  43 
+  entry 
+  13_S_16_10_15_31 
+  ligprep_7.maegz 
+  2
+  47013
+  W2NIXTFbY0hdW2NIXVtjSF1bY0hdYzEtYzJbY0hdW2NIXWMoW2NIXWMyRilbQ0BIXShbQ0gzXSlDKD1PKU9bQ0gyXVtDSDJdW0NIMl1bT0hd 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjQnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+    0.0000 
+    0.0000 
+    0.0000 
+    0.0000 
+  0
+  0
+  0
+  "This compound has an ester and may undergo hydrolysis at high or low pH." 
+  0
+  OPLS3e 
+  32.189457
+  1
+  293-1 
+  ligprep_7 
+  1
+  SET_5 
+  SET_5_copy1 
+  0
+  2
+ m_depend[9] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 s_st_Chirality_1 
+  2 10 r_epik_Ionization_Penalty 
+  3 10 r_epik_Ionization_Penalty_Charging 
+  4 10 r_epik_Ionization_Penalty_Neutral 
+  5 10 r_epik_State_Penalty 
+  6 10 r_epik_Charging_Adjusted_Penalty 
+  7 10 i_epik_Tot_Q 
+  8 30 s_m_job_name 
+  9 10 r_lp_tautomer_probability 
+  :::
+ } 
+ m_atom[41] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_color
+  r_m_charge1
+  r_m_charge2
+  i_m_atomic_number
+  s_m_color_rgb
+  s_m_label_format
+  i_m_label_color
+  s_m_label_user_text
+  i_m_atom_chirality
+  i_m_bond_stereo
+  i_rdk_index
+  b_st_NoSrcChirality
+  r_epik_H2O_pKa
+  r_epik_H2O_pKa_uncertainty
+  :::
+  1 2 -1.922935 -4.054450 -5.031169 2 -0.10722 -0.10722 6 A0A0A0  "%ST%CY %FC"  2 ""  0 10 0 <> <> <>
+  2 2 -2.452975 -4.743537 -6.118785 2 -0.13121 -0.13121 6 A0A0A0  "%ST%CY %FC"  2 ""  0 10 1 <> <> <>
+  3 2 -3.121835 -4.043594 -7.118335 2 -0.12238 -0.12238 6 A0A0A0  "%ST%CY %FC"  2 ""  0 10 2 <> <> <>
+  4 2 -3.265746 -2.661997 -7.036154 2 -0.13121 -0.13121 6 A0A0A0  "%ST%CY %FC"  2 ""  0 10 3 <> <> <>
+  5 2 -2.733225 -1.976515 -5.947475 2 -0.10722 -0.10722 6 A0A0A0  "%ST%CY %FC"  2 ""  0 10 4 <> <> <>
+  6 2 -2.051391 -2.661453 -4.931257 2 -0.04472 -0.04472 6 A0A0A0  "%ST%CY %FC"  2 ""  0 10 5 <> <> <>
+  7 2 -1.479092 -1.930995 -3.758422 2 -0.06975 -0.06975 6 A0A0A0  "%ST%CY %FC"  2 ""  0 10 6 <> <> <>
+  8 2 -1.577142 -2.483816 -2.472754 2 -0.09090 -0.09090 6 A0A0A0  "%ST%CY %FC"  2 ""  0 10 7 <> <> <>
+  9 2 -1.060429 -1.823700 -1.359091 2 -0.13337 -0.13337 6 A0A0A0  "%ST%CY %FC"  2 ""  0 10 8 <> <> <>
+  10 2 -0.423793 -0.589413 -1.501207 2 -0.05225 -0.05225 6 A0A0A0  "%ST%CY %FC"  2 ""  0 10 9 <> <> <>
+  11 2 -0.316490 -0.027977 -2.779096 2 -0.15968 -0.15968 6 A0A0A0  "%ST%CY %FC"  2 ""  0 10 10 <> <> <>
+  12 2 -0.832589 -0.688862 -3.894302 2 0.19079 0.19079 6 A0A0A0  "%ST%CY %FC"  2 ""  0 10 11 <> <> <>
+  13 3 0.132632 0.120510 -0.263573 2 -0.11986 -0.11986 6 A0A0A0  "%ST%CY %FC"  2 ""  2 10 12 1 <> <>
+  14 56 -0.670958 -0.116397 -5.110545 8 -0.17636 -0.17636 9 00FF7F  "%ST%CY %FC"  2 ""  0 10 13 <> <> <>
+  15 3 -0.469255 1.531264 -0.073646 2 -0.16290 -0.16290 6 A0A0A0  "%ST%CY %FC"  2 ""  0 10 14 <> <> <>
+  16 2 1.672306 0.123432 -0.338362 2 0.51135 0.51135 6 A0A0A0  "%ST%CY %FC"  2 ""  0 10 15 <> <> <>
+  17 16 2.203709 -1.043758 0.085948 70 -0.30718 -0.30718 8 FF2F2F  "%ST%CY %FC"  2 ""  0 10 16 <> <> <>
+  18 15 2.309456 1.105064 -0.730151 70 -0.44539 -0.44539 8 FF2F2F  "%ST%CY %FC"  2 ""  0 10 17 <> <> <>
+  19 3 3.611294 -1.242223 0.083484 2 0.15431 0.15431 6 A0A0A0  "%ST%CY %FC"  2 ""  0 10 18 <> <> <>
+  20 3 3.931868 -2.636898 0.646341 2 -0.20795 -0.20795 6 A0A0A0  "%ST%CY %FC"  2 ""  0 10 19 <> <> <>
+  21 3 5.436469 -2.950863 0.713927 2 0.12617 0.12617 6 A0A0A0  "%ST%CY %FC"  2 ""  0 10 20 <> <> <>
+  22 16 6.020372 -2.914723 -0.572370 70 -0.65591 -0.65591 8 FF2F2F  "%ST%CY %FC"  2 ""  0 10 21 <>   0.480    0.950 
+  23 41 -1.399430 -4.611959 -4.268001 21 0.13445 0.13445 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <> <> <>
+  24 41 -2.343813 -5.815841 -6.187327 21 0.13237 0.13237 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <> <> <>
+  25 41 -3.533929 -4.576289 -7.962665 21 0.13030 0.13030 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <> <> <>
+  26 41 -3.790335 -2.123750 -7.811866 21 0.13237 0.13237 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <> <> <>
+  27 41 -2.868231 -0.906259 -5.893888 21 0.13445 0.13445 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <> <> <>
+  28 41 -2.070523 -3.433377 -2.324736 21 0.14416 0.14416 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <> <> <>
+  29 41 -1.158200 -2.277667 -0.383587 21 0.13759 0.13759 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <> <> <>
+  30 41 0.179780 0.922481 -2.912633 21 0.14992 0.14992 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <> <> <>
+  31 41 -0.143128 -0.464409 0.615281 21 0.10870 0.10870 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <> <> <>
+  32 41 -0.239487 2.197138 -0.906750 21 0.07345 0.07345 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <> <> <>
+  33 41 -0.094747 2.001697 0.836455 21 0.07345 0.07345 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <> <> <>
+  34 41 -1.555052 1.480879 0.014641 21 0.07345 0.07345 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <> <> <>
+  35 41 3.992008 -1.149280 -0.935031 21 0.05903 0.05903 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <> <> <>
+  36 41 4.096010 -0.474477 0.689126 21 0.05903 0.05903 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <> <> <>
+  37 41 3.515724 -2.718662 1.651517 21 0.09223 0.09223 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <> <> <>
+  38 41 3.428502 -3.401405 0.052311 21 0.09223 0.09223 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <> <> <>
+  39 41 5.949717 -2.195330 1.310269 21 0.04607 0.04607 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <> <> <>
+  40 41 5.618796 -3.920010 1.179044 21 0.04607 0.04607 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <> <> <>
+  41 42 6.959023 -3.098237 -0.487842 21 0.42350 0.42350 1 FFFFFF  "%ST%CY %FC"  2 ""  0 10 <> <>  15.193    0.530 
+  :::
+ } 
+ m_bond[42] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  :::
+  1 1 2 2
+  2 1 6 1
+  3 1 23 1
+  4 2 3 1
+  5 2 24 1
+  6 3 4 2
+  7 3 25 1
+  8 4 5 1
+  9 4 26 1
+  10 5 6 2
+  11 5 27 1
+  12 6 7 1
+  13 7 8 2
+  14 7 12 1
+  15 8 9 1
+  16 8 28 1
+  17 9 10 2
+  18 9 29 1
+  19 10 11 1
+  20 10 13 1
+  21 11 12 2
+  22 11 30 1
+  23 12 14 1
+  24 13 15 1
+  25 13 16 1
+  26 13 31 1
+  27 15 32 1
+  28 15 33 1
+  29 15 34 1
+  30 16 17 1
+  31 16 18 2
+  32 17 19 1
+  33 19 20 1
+  34 19 35 1
+  35 19 36 1
+  36 20 21 1
+  37 20 37 1
+  38 20 38 1
+  39 21 22 1
+  40 21 39 1
+  41 21 40 1
+  42 22 41 1
+  :::
+ } 
+} 
+

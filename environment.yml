@@ -1,0 +1,13 @@
+# Install conda environment:
+# conda env create -f environment.yml
+
+name: ester-prediction
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.7
+  - pandas
+  - scikit-learn
+  - pyyaml

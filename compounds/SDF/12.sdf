@@ -1,0 +1,148 @@
+12
+                    3D
+ Schrodinger Suite 2021-1.
+ 37 38  0  0  1  0            999 V2000
+   -2.1030   -1.1163    0.1798 C   0  0  0  0  0  0
+   -0.6857   -1.0737    0.2518 O   0  0  0  0  0  0
+   -0.0082    0.0223   -0.1613 C   0  0  0  0  0  0
+   -0.5124    1.0572   -0.6013 O   0  0  0  0  0  0
+    1.5258   -0.1147   -0.0287 C   0  0  1  0  0  0
+    2.0271   -0.8052    1.2802 C   0  0  1  0  0  0
+    3.5718   -0.8802    1.3950 C   0  0  0  0  0  0
+    4.0535   -1.3933    2.7643 C   0  0  0  0  0  0
+    3.4572   -0.5699    3.9166 C   0  0  0  0  0  0
+    1.9217   -0.5275    3.8532 C   0  0  0  0  0  0
+    1.4792    0.0064    2.4787 N   0  3  0  0  0  0
+    2.0481   -0.7697   -1.3129 C   0  0  0  0  0  0
+    2.6651    0.0259   -2.2843 C   0  0  0  0  0  0
+    3.1491   -0.5495   -3.4562 C   0  0  0  0  0  0
+    3.0155   -1.9212   -3.6580 C   0  0  0  0  0  0
+    2.4021   -2.7232   -2.6986 C   0  0  0  0  0  0
+    1.9186   -2.1488   -1.5262 C   0  0  0  0  0  0
+   -2.4639   -2.0696    0.5655 H   0  0  0  0  0  0
+   -2.4447   -1.0170   -0.8514 H   0  0  0  0  0  0
+   -2.5521   -0.3181    0.7727 H   0  0  0  0  0  0
+    1.9198    0.9030   -0.0122 H   0  0  0  0  0  0
+    1.5833   -1.7960    1.3971 H   0  0  0  0  0  0
+    3.9706   -1.5333    0.6177 H   0  0  0  0  0  0
+    4.0013    0.1074    1.2174 H   0  0  0  0  0  0
+    3.7732   -2.4417    2.8799 H   0  0  0  0  0  0
+    5.1430   -1.3629    2.8108 H   0  0  0  0  0  0
+    3.7715   -0.9919    4.8719 H   0  0  0  0  0  0
+    3.8523    0.4467    3.8893 H   0  0  0  0  0  0
+    1.4673   -1.5139    3.9556 H   0  0  0  0  0  0
+    1.4893    0.1476    4.5924 H   0  0  0  0  0  0
+    1.7683    0.9696    2.3837 H   0  0  0  0  0  0
+    2.7707    1.0906   -2.1345 H   0  0  0  0  0  0
+    3.6254    0.0652   -4.2057 H   0  0  0  0  0  0
+    3.3901   -2.3669   -4.5678 H   0  0  0  0  0  0
+    2.3009   -3.7856   -2.8648 H   0  0  0  0  0  0
+    1.4405   -2.7762   -0.7883 H   0  0  0  0  0  0
+    0.4696    0.0017    2.4388 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 18  1  0  0  0
+  1 19  1  0  0  0
+  1 20  1  0  0  0
+  2  3  1  0  0  0
+  3  4  2  0  0  0
+  3  5  1  0  0  0
+  5  6  1  0  0  0
+  5 12  1  0  0  0
+  5 21  1  0  0  0
+  6 11  1  0  0  0
+  6  7  1  0  0  0
+  6 22  1  0  0  0
+  7  8  1  0  0  0
+  7 23  1  0  0  0
+  7 24  1  0  0  0
+  8  9  1  0  0  0
+  8 25  1  0  0  0
+  8 26  1  0  0  0
+  9 10  1  0  0  0
+  9 27  1  0  0  0
+  9 28  1  0  0  0
+ 10 11  1  0  0  0
+ 10 29  1  0  0  0
+ 10 30  1  0  0  0
+ 11 31  1  0  0  0
+ 11 37  1  0  0  0
+ 12 17  1  0  0  0
+ 12 13  2  0  0  0
+ 13 14  1  0  0  0
+ 13 32  1  0  0  0
+ 14 15  2  0  0  0
+ 14 33  1  0  0  0
+ 15 16  1  0  0  0
+ 15 34  1  0  0  0
+ 16 17  2  0  0  0
+ 16 35  1  0  0  0
+ 17 36  1  0  0  0
+M  CHG  1  11   1
+M  END
+> <s_m_entry_id>
+12
+
+> <s_m_entry_name>
+COC(=O)C(C1CCCCN1)C2=CC=CC=C2
+
+> <i_lp_mmshare_version>
+47013
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W2NIXTFbY0hdW2NIXVtjSF1bY0hdYzFbQ0BASF0oQyg9TylPW0NIM10pW0NASF0yW0NIMl1bQ0gyXVtDSDJdW0NIMl1bTkhdMg==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0009
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0009
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0006
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.00140649090460405
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+25.849233
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+CE1_4158_a-1
+
+> <s_m_job_name>
+ligprep_41
+
+> <s_m_Source_Path>
+/home/andre/Documents/projects/Esterase/data/FINAL_STUFF/Compounds/MAE_external
+
+> <s_m_Source_File>
+12.mae
+
+> <i_m_Source_File_Index>
+1
+
+> <s_epik_Chemistry_Notes>
+This compound has an ester and may undergo hydrolysis at high or low pH.
+
+$$$$

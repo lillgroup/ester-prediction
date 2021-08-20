@@ -1,0 +1,7 @@
+bootstrap: true
+max_depth: 50
+max_features: sqrt
+min_samples_leaf: 4
+min_samples_split: 5
+n_estimators: 200
+random_state: 17      # Fixed seed for deterministic results.

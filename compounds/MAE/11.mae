@@ -1,0 +1,174 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ s_m_entry_id
+ s_m_entry_name
+ i_lp_mmshare_version
+ i_f3d_flags
+ s_epik_input
+ s_epik_cmdline
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ s_st_Chirality_1
+ s_epik_Chemistry_Notes
+ s_st_EZ_1
+ i_m_ct_format
+ :::
+ 37_1 
+  78 
+  Structure1421 
+  47013
+  0
+  W2NIXTFjKFtPSF0pW2NIXVtjSF1jKGMxMiluYyhzMilDMz1OW0NIXShbQ0gyXVMzKUMoPU8pT1tDSDNd 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+    0.0464 
+    0.0000 
+    0.0464 
+    0.0394 
+  0.039406476729982
+  0
+  0
+  OPLS3e 
+  5.04817
+  1
+  CE1_M50_-2 
+  ligprep_38 
+  /home/andre/Documents/projects/Esterase/data/Mining/Library_V5/old_cpds 
+  37_1.mae 
+  1
+  16_S_15_17_19_26 
+  "This compound has an ester and may undergo hydrolysis at high or low pH. This compound has an imine and may undergo hydrolysis." 
+  13_14_15_16_Z 
+  2
+ m_depend[9] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_epik_Ionization_Penalty 
+  2 10 r_epik_Ionization_Penalty_Charging 
+  3 10 r_epik_Ionization_Penalty_Neutral 
+  4 10 r_epik_State_Penalty 
+  5 10 r_epik_Charging_Adjusted_Penalty 
+  6 10 i_epik_Tot_Q 
+  7 30 s_m_job_name 
+  8 10 s_st_Chirality_1 
+  9 10 s_st_EZ_1 
+  :::
+ } 
+ m_atom[29] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  i_m_color
+  r_m_charge1
+  r_m_charge2
+  s_m_pdb_atom_name
+  s_m_grow_name
+  i_m_atomic_number
+  s_m_color_rgb
+  s_m_atom_name
+  s_m_label_format
+  i_m_label_color
+  s_m_label_user_text
+  i_m_atom_chirality
+  i_m_bond_stereo
+  r_epik_H2O_pKa
+  r_epik_H2O_pKa_uncertainty
+  b_st_NoSrcChirality
+  :::
+  1 2 -2.262125 0.607551 0.077124 1 24 -0.09709 -0.09709 "    " "    " 6 808080  C1  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  2 2 -3.563506 1.125930 0.128168 1 24 -0.16415 -0.16415 "    " "    " 6 808080  C2  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  3 2 -4.628677 0.230750 0.013047 1 24 0.10073 0.10073 "    " "  n1" 6 808080  C3  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  4 2 -4.406853 -1.137865 -0.149703 1 24 -0.09460 -0.09460 "    " "    " 6 808080  C4  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  5 2 -3.114852 -1.664728 -0.202172 1 24 -0.37181 -0.37181 "    " "    " 6 808080  C5  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  6 2 -2.029520 -0.782627 -0.086590 1 24 0.45340 0.45340 "    " "    " 6 808080  C6  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  7 49 -0.716005 1.433509 0.189276 1 13 0.04035 0.04035 "    " "    " 16 E1E11E  S7  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  8 2 0.081764 -0.125716 0.012068 1 2 0.01943 0.01943 "    " "  c1" 6 A0A0A0  C8  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  9 25 -0.721147 -1.149732 -0.117976 1 43 -0.31258 -0.31258 "    " "    " 7 5757FF  N9  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  10 41 -3.735969 2.185052 0.253172 1 21 0.21989 0.21989 "    " "    " 1 FFFFFF  H10  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  11 41 -5.250262 -1.807794 -0.236968 1 21 0.13190 0.13190 "    " "    " 1 FFFFFF  H11  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  12 41 -2.961091 -2.726725 -0.327706 1 21 0.21942 0.21942 "    " "    " 1 FFFFFF  H12  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  13 49 2.343414 -1.822805 -0.112196 1 143 -0.22406 -0.22406 "UNK " "    " 16 FFFF6B  S13  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  14 2 1.546341 -0.220095 0.019237 1 24 0.32953 0.32953 "UNK " "  c1" 6 808080  C14  "%ST%CY %FC"  2 ""  0 12 <> <> <>
+  15 25 2.295670 0.802789 0.119272 1 38 -0.44573 -0.44573 "UNK " "    " 7 2E2EFF  N15  "%ST%CY %FC"  2 ""  0 12  -0.485    1.000  <>
+  16 3 3.704107 0.482894 0.090516 1 24 -0.08449 -0.08449 "UNK " "    " 6 808080  C16  "%ST%CY %FC"  2 ""  2 10 <> <> 1
+  17 3 3.946697 -1.038687 0.100115 1 24 -0.01554 -0.01554 "UNK " "  n1" 6 808080  C17  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  18 41 4.385084 -1.426059 1.021523 1 21 0.11999 0.11999 "UNK " "  n2" 1 FFFFFF  H18  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  19 2 4.321048 1.212113 1.301197 1 2 0.54011 0.54011 "    " "  c1" 6 A0A0A0  C19  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  20 16 4.945012 2.355553 0.944852 1 70 -0.30007 -0.30007 "    " "  c1" 8 FF2F2F  O20  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  21 3 5.584985 3.162904 1.922276 1 24 0.09632 0.09632 "    " "  c1" 6 808080  C21  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  22 41 6.014025 4.046187 1.449601 1 21 0.04992 0.04992 "    " "  n2" 1 FFFFFF  H22  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  23 41 6.390495 2.616451 2.415093 1 21 0.04992 0.04992 "    " "    " 1 FFFFFF  H23  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  24 41 4.875962 3.495051 2.682066 1 21 0.04992 0.04992 "    " "    " 1 FFFFFF  H24  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  25 15 4.256919 0.753454 2.445594 1 70 -0.43603 -0.43603 "    " "  c1" 8 FF2F2F  O25  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  26 41 4.120125 0.914337 -0.821443 1 21 0.14443 0.14443 "UNK " "    " 1 FFFFFF  H26  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  27 41 4.590292 -1.342508 -0.725767 1 21 0.11999 0.11999 "UNK " "    " 1 FFFFFF  H27  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  28 16 -5.913510 0.703117 0.060946 1 70 -0.58969 -0.58969 "    " "  c1" 8 FF2E2E  O28  "%ST%CY %FC"  2 ""  0 10 <> <> <>
+  29 42 -5.961458 1.654576 0.177791 1 21 0.45059 0.45059 "    " "  n2" 1 FFFFFF  H29  "%ST%CY %FC"  2 ""  0 10   8.090    1.474  <>
+  :::
+ } 
+ m_bond[31] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  i_m_from_rep
+  i_m_to_rep
+  :::
+  1 1 2 1 2 2
+  2 1 6 2 2 2
+  3 1 7 1 2 2
+  4 2 3 2 2 2
+  5 2 10 1 2 2
+  6 3 4 1 2 2
+  7 3 28 1 2 2
+  8 4 5 2 2 2
+  9 4 11 1 2 2
+  10 5 6 1 2 2
+  11 5 12 1 2 2
+  12 6 9 1 2 2
+  13 7 8 1 2 2
+  14 8 9 2 2 2
+  15 8 14 1 2 2
+  16 13 14 1 2 2
+  17 13 17 1 2 2
+  18 14 15 2 2 2
+  19 15 16 1 2 2
+  20 16 17 1 2 2
+  21 16 19 1 2 2
+  22 16 26 1 2 2
+  23 17 18 1 2 2
+  24 17 27 1 2 2
+  25 19 20 1 2 2
+  26 19 25 2 2 2
+  27 20 21 1 2 2
+  28 21 22 1 2 2
+  29 21 23 1 2 2
+  30 21 24 1 2 2
+  31 28 29 1 2 2
+  :::
+ } 
+} 
+
